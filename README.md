@@ -35,4 +35,4 @@
 - Se divirta!! o/
 
 ----------------------------------------------------------------------------------
-!{Snake Animation](https://github.com/IdrisPukke)
+![Snake Animation](https://github.com/IdrisPukke)
