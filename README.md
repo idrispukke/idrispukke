@@ -18,13 +18,16 @@
 
  
 
-## About me
+## Redes Sociais
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](https://github.com/Harthed)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK_LINKEDIN)](https://www.linkedin.com/in/keven-figueiral-049a75269/)
 
-<code><img height= "20"src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
+![image](https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white)(https://bio.link/idrispukke)
+![image](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)(https://steamcommunity.com/id/kevinicidius)
+![image](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)(discordapp.com/users/776037264367157269)
+
 
 - Obrigado por visitar!
 
