@@ -1,20 +1,20 @@
 ----------------------------------------------------------------------------
 
-# Welcome!
+# Hello World!
 
  
 
-## I'm Keven!
+## Me chamo Keven!
 
  
 
-:computer: I'm Front-End Developer!
+:computer: Sou um desenvolvedor Front-End!
 
-:house_with_garden: I’m from Brazil.
+:house_with_garden: Sou brasileiro.
 
-:books: I’m currently learning everything.
+:books: Atualmente estou finalizando meu curso técnico de informática.
 
-:outbox_tray: 2021 Goals: create a new project and find a new job.
+:outbox_tray: Objetivos para 2025: não enlouquecer.
 
  
 
@@ -24,8 +24,10 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK_LINKEDIN)](https://www.linkedin.com/in/keven-figueiral-049a75269/)
 
-- Thanks for visiting.
+<code><img height= "20"src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
 
-- Enjoy it!! o/
+- Obrigado por visitar!
+
+- Se divirta!! o/
 
 ----------------------------------------------------------------------------------
