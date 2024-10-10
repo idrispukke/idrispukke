@@ -21,7 +21,13 @@
 ## Redes Sociais
 
 <div> 
-  <a href="https://www.linkedin.com/in/keven-figueiral-049a75269/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/keven-figueiral-049a75269/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href=""></a>
+ <a href=""></a>
+ <a href=""></a>
+ <a href=""></a>
+ <a href=""></a>
+ <a href=""></a>
 </div>
 
 - Obrigado por visitar!
