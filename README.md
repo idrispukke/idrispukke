@@ -4,17 +4,17 @@
 
  
 
-## Aqui é o Keven!
+## I'm Keven!
 
  
 
-:computer: Sou um desenvolvedor Front-End.
+:computer: I'm a Front-End developer.
 
-:house_with_garden: Sou brasileiro e tenho 17 anos.
+:house_with_garden: I'm brazilian and  I'm also 17.
 
-:books: Atualmente estou finalizando meu curso técnico de informática.
+:books: I'm currently finishing my IT course.
 
-:outbox_tray: Objetivos para 2025: não enlouquecer.
+:outbox_tray: 2025 Goals: not getting crazy.
 
 <div>
 <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -25,7 +25,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="30" width="40" align="center"/>
 </div>
 
-## Redes Sociais
+## Socials
 
 <div>
 <a href="https://www.linkedin.com/in/keven-figueiral-049a75269/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -37,9 +37,9 @@
 <a href=""><img src=""></a>
 </div>
 
-- Obrigado por visitar!
+- Thanks for coming!
 
-- Se divirta!! o/
+- Have fun!! o/
 
 ----------------------------------------------------------------------------------
 <picture>
