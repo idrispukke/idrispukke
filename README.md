@@ -33,8 +33,6 @@
 <a href="https://bio.link/idrispukke"><img src="https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white"></a>
 <a href="https://steamcommunity.com/profiles/76561198396552375"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt=""></a>
 <a href="https://open.spotify.com/user/31b5yt7qzivkrpjfx6lu3kmcpkbm?si=Nm4pDqzsROWbj7-sFXqN5g"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-# <a href=""><img src=""></a>
-# <a href=""><img src=""></a>
 </div>
 
 - Thanks for coming!
