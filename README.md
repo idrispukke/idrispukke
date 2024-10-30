@@ -43,7 +43,7 @@
 
 ### ⚙️ GitHub Analytics
   [![card](https://github-readme-stats.vercel.app/api?username=idrispukke&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-  [![idrispukke](https://github-readme-stats.vercel.app/api/top-langs/?username=idrispukke&hide=html-css&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+  [![idrispukke](https://github-readme-stats.vercel.app/api/top-langs/?username=idrispukke&hide=html&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
   
 ----------------------------------------------------------------------------------
   
