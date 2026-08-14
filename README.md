@@ -2,14 +2,14 @@
 
 ## I'm Keven!
 
-💻 **OTS Tech @ Amazon | Computer Science Student | Database Enthusiast**
+💻 **IT Apprentice — OTS @ Amazon | Computer Science Student | Database Enthusiast**
 
 🇧🇷 Brazilian developer passionate about technology, problem-solving and learning new things.
 
-🎓 Currently studying **Computer Science**
-💼 **OTS Tech @ Amazon — GIG1**
-🗄️ Focused on **Databases & Data**
-💻 Background in **IT & Front-End Development**
+🎓 Currently studying **Computer Science** <br>
+💼 **IT Apprentice — OTS @ Amazon (GIG1)** <br>
+🗄️ Focused on **Databases & Data** <br>
+💻 Background in **IT & Programming** <br>
 🌎 English — Advanced
 
 ---
@@ -21,6 +21,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="40" width="50" alt="JavaScript"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40" width="50" alt="HTML5"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40" width="50" alt="CSS3"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" height="40" width="50" alt="Tailwind CSS"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" width="50" alt="Python"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="40" width="50" alt="React"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="40" width="50" alt="Next.js"/>
@@ -36,8 +37,8 @@
 ## 🚀 About Me
 
 * 🎓 Currently pursuing a degree in **Computer Science**
-* 💼 Working as an **OTS Tech at Amazon (GIG1)**
-* 🗄️ Focusing my studies and career on **Databases**
+* 💼 Working as an **IT Apprentice at Amazon (GIG1)**
+* 🗄️ Focusing my studies and career on **Databases & Data**
 * 🖥️ Background in **IT and Front-End Development**
 * 🧠 Always learning and experimenting with new technologies
 * 🔧 I enjoy troubleshooting, building things and understanding how systems work
