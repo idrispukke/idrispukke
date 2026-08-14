@@ -1,55 +1,113 @@
-----------------------------------------------------------------------------
-
-# Hello World!
-
- 
+# 👋 Hello World!
 
 ## I'm Keven!
 
- 
+💻 **OTS Tech @ Amazon | Computer Science Student | Database Enthusiast**
 
-:computer: I'm a Front-End developer.
+🇧🇷 Brazilian developer passionate about technology, problem-solving and learning new things.
 
-:house_with_garden: I'm brazilian and  I'm also 17.
+🎓 Currently studying **Computer Science**
+💼 **OTS Tech @ Amazon — GIG1**
+🗄️ Focused on **Databases & Data**
+💻 Background in **IT & Front-End Development**
+🌎 English — Advanced
 
-:books: I'm currently finishing my IT course.
+---
 
-:outbox_tray: 2025 Goals: not getting crazy.
+### 🛠️ Technologies & Tools
 
-<div>
-<img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="30" width="40" align="center"/>
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="40" width="50" alt="JavaScript"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40" width="50" alt="HTML5"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40" width="50" alt="CSS3"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" width="50" alt="Python"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="40" width="50" alt="React"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="40" width="50" alt="Next.js"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="40" width="50" alt="Node.js"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="40" width="50" alt="MySQL"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40" width="50" alt="Git"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="40" width="50" alt="GitHub"/>
+
 </div>
 
-## Socials
+---
 
-<div>
-<a href="https://www.linkedin.com/in/keven-figueiral-049a75269/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://discord.com/invite/idrispukke."><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
-<a href="https://bio.link/idrispukke"><img src="https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white"></a>
-<a href="https://steamcommunity.com/profiles/76561198396552375"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt=""></a>
-<a href="https://open.spotify.com/user/31b5yt7qzivkrpjfx6lu3kmcpkbm?si=Nm4pDqzsROWbj7-sFXqN5g"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+## 🚀 About Me
+
+* 🎓 Currently pursuing a degree in **Computer Science**
+* 💼 Working as an **OTS Tech at Amazon (GIG1)**
+* 🗄️ Focusing my studies and career on **Databases**
+* 🖥️ Background in **IT and Front-End Development**
+* 🧠 Always learning and experimenting with new technologies
+* 🔧 I enjoy troubleshooting, building things and understanding how systems work
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=idrispukke&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idrispukke&layout=compact&langs_count=8&theme=dracula" alt="Top Languages"/>
+
 </div>
 
-- Thanks for coming!
+---
 
-- Have fun!! o7
+## 🔥 GitHub Streak
 
-----------------------------------------------------------------------------------
+<div align="center">
 
-### ⚙️ GitHub Analytics
-  [![card](https://github-readme-stats.vercel.app/api?username=idrispukke&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-  [![idrispukke](https://github-readme-stats.vercel.app/api/top-langs/?username=idrispukke&hide=html,css&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-  
-----------------------------------------------------------------------------------
-  
-  ### 🐍 Commit Snake
+<img src="https://streak-stats.demolab.com?user=idrispukke&theme=dracula&hide_border=false" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/idrispukke/idrispukke/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/idrispukke/idrispukke/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/idrispukke/idrispukke/output/github-contribution-grid-snake.svg">
 </picture>
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/keven-figueiral-049a75269/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/idrispukke">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://bio.link/idrispukke">
+<img src="https://img.shields.io/badge/bio.link-000000?style=for-the-badge&logo=linktree&logoColor=white"/>
+</a>
+
+<a href="https://discord.com/invite/idrispukke.">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Always learning. Always building.
+
+⭐ Thanks for visiting my profile!
+
+</div>
