@@ -6,10 +6,6 @@
 
 🇧🇷 Brazilian developer passionate about technology, problem-solving and learning new things.
 
-🎓 Currently studying **Computer Science** <br>
-💼 **IT Apprentice — OTS @ Amazon (GIG1)** <br>
-🗄️ Focused on **Databases & Data** <br>
-💻 Background in **IT & Programming** <br>
 🌎 English — Advanced
 
 ---
@@ -39,7 +35,7 @@
 * 🎓 Currently pursuing a degree in **Computer Science**
 * 💼 Working as an **IT Apprentice at Amazon (GIG1)**
 * 🗄️ Focusing my studies and career on **Databases & Data**
-* 🖥️ Background in **IT and Front-End Development**
+* 🖥️ Background in **IT and Programming**
 * 🧠 Always learning and experimenting with new technologies
 * 🔧 I enjoy troubleshooting, building things and understanding how systems work
 
